@@ -1,0 +1,23 @@
+{
+	"name": "Scadacom Libraries",
+	"image": "ubuntu",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"golang.go",
+				"ms-vscode.cmake-tools",
+				"ms-vscode.cpptools",
+				"ms-vscode.cpptools-extension-pack",
+				"ms-vscode.cpptools-themes",
+				"ms-vscode.makefile-tools",
+				"redhat.vscode-yaml",
+				"twxs.cmake",
+				"zxh404.vscode-proto3",
+				"ms-python.python",
+				"cweijan.vscode-redis-client",
+				"streetsidesoftware.code-spell-checker"
+			]
+		}
+	},
+	"workspaceFolder": "/workspace"
+}
